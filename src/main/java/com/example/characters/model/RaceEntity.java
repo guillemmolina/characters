@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-@Table(name= "razas_señor_de_los_anillos")
+@Table(name= "razas_senor_de_los_anillos")
 public class RaceEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-@Table(name="atributos_armas_señor_de_los_anillos")
+@Table(name="atributos_armas_senor_de_los_anillos")
 public class WeaponEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
